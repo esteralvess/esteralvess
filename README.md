@@ -1,6 +1,12 @@
 Olá 👋 
 
-Seja bem-vindo ao meu Git 
+Sejam bem-vindos(a) ao meu GIT.
+
+Estou cursando Análise e Desenvolvimento de Sistemas e Engenharia de Software, atualmente trabalho como Analista de Sistema Jr. 
+
+Me encontrei na tecnologia a pouco tempo, e com a minha paixão pretendo ser mais uma mulher dev representando o trabalho feminino e fazendo a diferença nesse mundo. Além desse mundo encantador, eu também tenho experiência em todas as áreas que a contabilidade abrange, com ênfase na área fiscal, aonde atuei por 3 longos anos.
+
+Agradeço a visita!
 
 <div align="center">
   <a href="https://github.com/esteralvess">
@@ -11,11 +17,9 @@ Seja bem-vindo ao meu Git
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/338224_8C5Y3KVz.png">
 </div>
   
