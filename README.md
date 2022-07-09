@@ -4,9 +4,7 @@ Sejam bem-vindos(a) ao meu GIT.
 
 Sou graduanda em Análise e Desenvolvimento de Sistemas e Engenharia de Software, atualmente trabalho como Analista de Sistema Jr. 
 
-Me encontrei na tecnologia a pouco tempo, e com a minha paixão pretendo ser mais uma mulher dev representando o trabalho feminino e fazendo a diferença nesse mundo. Além desse mundo encantador, eu também tenho experiência em todas as áreas que a contabilidade abrange, com ênfase na área fiscal, aonde atuei por 3 longos anos.
-
-Agradeço a visita!
+Me encontrei na tecnologia a pouco tempo, e com a minha paixão pretendo ser mais uma mulher dev representando o trabalho feminino e fazendo a diferença nesse mundo. 
 
 <div align="center">
   <a href="https://github.com/esteralvess">
