@@ -17,7 +17,7 @@ Me encontrei na tecnologia a pouco tempo, e com a minha paixão pretendo ser mai
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" height="150" style="border-radius:50px;" src="1658513677957.jpg">
+  <img align="right" height="150" style="border-radius:50px;" src="cartoon-me.jpeg">
 </div>
   
   ##
