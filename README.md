@@ -27,7 +27,7 @@ Me encontrei na tecnologia a pouco tempo, e com a minha paixão pretendo ser mai
   ##
   
   <div>
-    <h2> Entre em contato comigo </h2> 
+
  <a href="https://www.instagram.com/esteralves.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/KpAGBpZx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:estersouza3@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
