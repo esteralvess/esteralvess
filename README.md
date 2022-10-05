@@ -12,6 +12,8 @@ Me encontrei na tecnologia a pouco tempo, e com a minha paixão pretendo ser mai
   <a href="https://github.com/esteralvess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esteralvess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteralvess&layout=compact&langs_count=7&theme=dracula"/>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=esteralvess&theme=horizon)](https://git.io/streak-stats)
 </div>
   
 <div style="display: inline_block"><br>
