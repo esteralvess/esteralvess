@@ -2,9 +2,7 @@
 
 <h2>Sejam bem-vindos(a) ao meu GIT. 🤍</h2>
 
-Sou graduanda em Análise e Desenvolvimento de Sistemas e Engenharia de Software. 
-
-Me encontrei na tecnologia a pouco tempo, e com a minha paixão pretendo ser mais uma mulher dev representando o trabalho feminino e fazendo a diferença nesse mundo. 
+Graduando em Análise e Desenvolvimento de Sistemas e Engenharia de Software. 
 
 <br>
 
