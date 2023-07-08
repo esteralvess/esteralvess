@@ -2,7 +2,7 @@
 
 <h2>Sejam bem-vindos(a) ao meu GIT. 🤍</h2>
 
-Graduando em Análise e Desenvolvimento de Sistemas e Engenharia de Software. 
+Graduada em Analise e Desenvolvimento de Sistemas.
 
 <br>
 
